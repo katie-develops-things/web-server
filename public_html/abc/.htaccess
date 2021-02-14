@@ -1,0 +1,4 @@
+AuthUserFile "C:/Users/akhil/School/Fall20/web_dev/web-server-katie-akhil/public_html/.htpasswd"
+AuthType Basic
+AuthName "I Challenge You"
+Require valid-user
